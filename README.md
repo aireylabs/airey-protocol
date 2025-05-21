@@ -3,7 +3,7 @@
 
 *Intelligent yield strategies powered by advanced machine learning across multiple blockchains*
 
-![AIREY Protocol](https://avatars.githubusercontent.com/u/212713688?v=4)
+![AIREY Protocol](https://avatars.githubusercontent.com/u/212713688?v=4&size=128)
 
 ## Introduction
 
